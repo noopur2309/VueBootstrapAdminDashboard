@@ -25,8 +25,10 @@ Vue Bootstrap Dashboard is built on top of Bootstrap 4, Vuejs . To get started d
 
 Download the project
 Make sure you have node.js (https://nodejs.org/en/) installed
-#Type npm install in the source folder where package.json is located
-#Type npm run dev to start the development server
-#The repo uses vue-cli scaffolding which takes care of the development setup with webpack and all the necessary modern tools to make web development faster and easier.
+
+##Type npm install in the source folder where package.json is located
+##Type npm run dev to start the development server
+
+##The repo uses vue-cli scaffolding which takes care of the development setup with webpack and all the necessary modern tools to make web development faster and easier.
 
 ![2](https://user-images.githubusercontent.com/44220001/47072852-970a1780-d214-11e8-89cc-02912fb1b5f0.png)
