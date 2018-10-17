@@ -1,4 +1,4 @@
-# todo-app
+# VueBootstrapAdminDashboard
 
 > A Vue.js project
 
