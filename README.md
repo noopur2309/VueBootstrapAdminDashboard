@@ -42,7 +42,8 @@ Let us know what you think and what we can improve below. And good luck with dev
 Demo
 ![1](https://user-images.githubusercontent.com/44220001/47073402-d2f1ac80-d215-11e8-9853-d242081eade0.png)
 
-## Quick start
-## ![2601](https://user-images.githubusercontent.com/44220001/47075438-2fef6180-d21a-11e8-8b60-2fa9c8a3bc57.png) Build Setup
+## Demo Link Here
+http://127.0.0.1:46669/template/Dashboard.html
+
 
 
