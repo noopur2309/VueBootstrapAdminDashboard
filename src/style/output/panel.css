@@ -1,0 +1,67 @@
+.main-content {
+  padding: 28px 10px; }
+
+.panel {
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  -moz-box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+  -webkit-box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+  background-color: #fff;
+  margin-bottom: 30px; }
+
+.panel.panel-headline .panel-heading {
+  border-bottom: none; }
+
+.panel .panel-heading .panel-title {
+  margin: 0;
+  font-size: 18px;
+  font-weight: 300; }
+
+.panel-title {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 16px;
+  color: black; }
+
+.panel .right {
+  position: absolute;
+  right: 20px;
+  top: 32%; }
+
+.panel .panel-heading button {
+  padding: 0;
+  margin-left: 5px;
+  background-color: transparent;
+  border: none;
+  outline: none; }
+
+.panel .panel-heading button i {
+  font-size: 14px; }
+
+.panel .panel-heading {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  position: relative; }
+
+.panel .panel-heading, .panel .panel-body, .panel .panel-footer {
+  padding-left: 25px;
+  padding-right: 25px; }
+
+.panel.panel-headline .panel-heading .panel-title {
+  margin-bottom: 8px;
+  font-size: 22px;
+  font-weight: normal;
+  color: black; }
+
+.panel.panel-headline .panel-heading .panel-subtitle {
+  margin-bottom: 0;
+  font-size: 14px;
+  color: black; }
+
+.panel .panel-body {
+  padding-top: 10px;
+  padding-bottom: 15px; }
+
+/*# sourceMappingURL=panel.css.map */

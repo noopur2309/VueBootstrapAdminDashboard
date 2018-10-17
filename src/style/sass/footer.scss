@@ -1,0 +1,19 @@
+.footer:last-child {
+    border-radius: 0 0 calc(.25rem - 1px) calc(.25rem - 1px);
+}
+
+ #footer {
+    background: #111;
+    padding: 30px 0;
+    color: #fff;
+}
+        #footer .copyright {
+    text-align: center;
+}
+        strong {
+    font-weight: 700;
+}
+    .pull-right {
+    float: right;
+}
+

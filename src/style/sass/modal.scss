@@ -1,0 +1,25 @@
+.modal-header, h4, .close {
+      background-color: #06695c;
+      color:white !important;
+      text-align: center;
+      font-size: 30px;
+     
+  }
+        .modal-body{
+            padding: 40px 50px;
+        }
+        .modal-dialog
+        {
+            width: 60%;
+        }
+  .modal-footer {
+      background-color: #f9f9f9;
+  }
+label {
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: 700;
+align:left;
+}
+

@@ -1,0 +1,76 @@
+.table {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 20px;
+}
+table {
+    background-color: transparent;
+}
+        .table-striped>tbody>tr:nth-of-type(odd) {
+    background-color: #f9f9f9;
+}
+        .table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th {
+    padding: 8px;
+    line-height: 1.42857143;
+    vertical-align: top;
+    border-top: 1px solid #ddd;
+}
+   
+label {
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: 700;
+}
+       
+
+        table {
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+        thead {
+    display: table-header-group;
+    vertical-align: middle;
+    border-color: inherit;
+            
+}
+        tr {
+    display: table-row;
+   vertical-align: bottom;
+    border-color: inherit;
+}
+  
+        .panel .table > thead > tr > td:first-child, .panel .table > thead > tr > th:first-child, .panel .table > tbody > tr > td:first-child, .panel .table > tbody > tr > th:first-child, .panel .table > tfoot > tr > td:first-child, .panel .table > tfoot > tr > th:first-child {
+    padding-left: 25px;
+}
+         .table>thead:first-child>tr:first-child>th {
+    border-top: 0;
+}
+.table>thead>tr>th {
+    vertical-align: bottom;
+    border-bottom: 2px solid #ddd;
+}
+
+        tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+
+ .panel.panel-scrolling .btn-bottom {
+    margin-bottom: 30px;
+}
+
+.requiredField, .errorForm {
+    color: red;
+}
+     .table td a.OpenMap {
+        color: #03A9F4;
+   
+    }
+    .table td a.Clone {
+        color: #FFC107;
+    }
+    .table td a.Delete {
+        color: #E34724;
+    }
