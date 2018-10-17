@@ -43,7 +43,7 @@ Demo
 ![1](https://user-images.githubusercontent.com/44220001/47073402-d2f1ac80-d215-11e8-9853-d242081eade0.png)
 
 ## Demo Link Here
-http://127.0.0.1:46669/template/Dashboard.html
+file:///home/hiten/Documents/newDashboard/template/Dashboard.html
 
 
 
