@@ -43,6 +43,6 @@ Demo
 ![1](https://user-images.githubusercontent.com/44220001/47073402-d2f1ac80-d215-11e8-9853-d242081eade0.png)
 
 ## Quick start
-##  Build Setup
+## https://assets-cdn.github.com/images/icons/emoji/unicode/2601.png Build Setup
 
 
