@@ -30,7 +30,7 @@ Make sure you have node.js (https://nodejs.org/en/) installed
 ##Type npm run dev to start the development server
 
 ##The repo uses vue-cli scaffolding which takes care of the development setup with webpack and all the necessary modern tools to make web development faster and easier.
-![5](https://user-images.githubusercontent.com/44220001/47082896-c3319280-d22c-11e8-8860-7b524c143879.png)
+![5](https://user-images.githubusercontent.com/44220001/47129589-7c3ab000-d2b3-11e8-9cdb-85ab19b7e2ae.png)
 
 Vue Material Dashboard is a beautiful resource built over Vue Material and Vuejs. It will help you get started developing dashboards in no time. Vue Material Dashboard is the official Vuejs version of the Original Material Dashboard. Using the Dashboard is pretty simple but requires basic knowledge of Javascript, Vuejs.
 
