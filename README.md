@@ -39,7 +39,7 @@ Vue Material Dashboard is a beautiful resource built over Vue Material and Vuejs
 Let us know what you think and what we can improve below. And good luck with development!
 
 Demo
-![1](https://user-images.githubusercontent.com/44220001/47073402-d2f1ac80-d215-11e8-9853-d242081eade0.png)
+![4](https://user-images.githubusercontent.com/44220001/47129621-a12f2300-d2b3-11e8-98e1-303afc7da563.png)
 
 
 
